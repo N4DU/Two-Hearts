@@ -1,34 +1,34 @@
 # Zwei Herzen 💙🤍
 
-Juego cooperativo de 2 jugadores hecho en Scratch, inspirado en *Frieren: Beyond Journey's End*.
+A 2-player cooperative game made in Scratch, inspired by *Frieren: Beyond Journey's End*.
 
-🎮 **[Jugar ahora](https://n4du.github.io/zwei-herzen)**
+🎮 **[Play now](https://n4du.github.io/zwei-herzen)**
 
-![Inicio](assets/Image1.webp)
+![Start](assets/Image1.webp)
 
-## Cómo se juega
+## How to play
 
-Controlás a **Frieren** y **Himmel** al mismo tiempo, en el mismo teclado.
+You control **Frieren** and **Himmel** at the same time, on the same keyboard.
 
-| Personaje | Controles |
+| Character | Controls |
 |---|---|
 | Frieren | `W` `A` `S` `D` |
 | Himmel | `↑` `↓` `←` `→` |
 
-Por el mapa se mueven dos corazones: uno blanco (Frieren) y uno azul (Himmel). Cada uno recolecta el que le corresponde y después se juntan, formando un corazón rojo.
+Two hearts move around the map: a white one (Frieren) and a blue one (Himmel). Each one collects the heart that belongs to them, then they meet up and the hearts combine into a single red one.
 
-Son 30 niveles. A medida que avanzás, los personajes van más lento y los corazones más rápido.
+There are 30 levels. As you progress, the characters move slower and the hearts move faster.
 
-![Encuentro](Image2.webp)
+![Meeting](assets/Image2.webp)
 
-Al terminar el nivel 30, el corazón rojo crece y gira en el centro de la pantalla hasta dar paso a una animación final con lluvia de meteoritos.
+After clearing level 30, the red heart grows and spins at the center of the screen, leading into a final animation with a meteor shower.
 
-![Final](assets/Image3.webp)
+![Ending](assets/Image3.webp)
 
-## Tecnología
+## Tech
 
-Hecho en **Scratch** y empaquetado como app web con [TurboWarp Packager](https://packager.turbowarp.org).
+Built in **Scratch** and packaged as a standalone web app with [TurboWarp Packager](https://packager.turbowarp.org).
 
-## Créditos
+## Credits
 
-[Nahuel](https://github.com/N4DU) — inspirado en *Frieren: Beyond Journey's End*
+[N4DU](https://github.com/N4DU) — inspired by *Frieren: Beyond Journey's End*
