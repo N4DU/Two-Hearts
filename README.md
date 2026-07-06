@@ -2,7 +2,7 @@
 
 A 2-player cooperative game made in Scratch, inspired by *Frieren: Beyond Journey's End*.
 
-🎮 **[Play now](https://n4du.github.io/zwei-herzen)**
+🎮 **[Play now](https://n4du.github.io/Two-Hearts)**
 
 ![Start](assets/Image1.webp)
 
